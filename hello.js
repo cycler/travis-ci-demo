@@ -2,6 +2,11 @@
 
 function hello(){
   console.log('Hello World');
+
 }
 
-module.exports = hello;
+function test(){
+ console.log('Hello test');
+}
+
+module.exports = {hello,test};

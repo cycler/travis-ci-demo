@@ -9,4 +9,4 @@ function test(){
  console.log('Hello test');
 }
 
-module.exports = {hello,test};
+module.exports = hello;

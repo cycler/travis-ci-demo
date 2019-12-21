@@ -5,8 +5,4 @@ function hello(){
 
 }
 
-function test(){
- console.log('Hello test');
-}
-
 module.exports = hello;
